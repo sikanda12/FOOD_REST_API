@@ -1,4 +1,4 @@
-const BASE_URL='http://localhost:4000/';
+const BASE_URL='https://foodapi-lqod.onrender.com/';
 const uploadDir='uploads/';
 module.exports = BASE_URL+uploadDir;
 
